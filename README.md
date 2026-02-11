@@ -1,4 +1,18 @@
-9DA™ — Structural Governance and Intent Classification
+**9DA™ — Structural Governance and Intent Classification**
+## Neural Governance Architecture
+
+9DA implements the neural substrate for governed autonomy — the component
+the AI evaluation field currently lacks benchmark coverage for.
+
+The NineDAExaminer provides:
+- Nine-field governance across human, AI, and systemic dimensions
+- Differentiable governance loss as a training signal
+- Ensemble world model with epistemic uncertainty quantification
+- Counterfactual path analysis before action execution
+
+Live interactive demo: [Nine-Field Examiner](https://9datm.github.io/multidimensional-self-expanding-agent/demo_nine_fields.html)
+
+Governance protocol: [9DA-Core](https://github.com/9DAtm/9DA-Core)
 
 9DA™ is a deterministic structural governance system designed to classify user input by intent, boundary relationship, and coherence.
 
