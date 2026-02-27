@@ -1,6 +1,12 @@
 **9DA™ — Structural Governance and Intent Classification**
 ## Neural Governance Architecture
 
+This software is licensed under the 9DA™ Proprietary License. 
+
+See LICENSE for full terms. For commercial licensing enquiries, contact info@9da.org
+
+**[▶ License: 9DA™ Proprietary](https://github.com/9DAtm/9DA/blob/main/9DA_Proprietary_License.md)**
+
 9DA implements the neural substrate for governed autonomy — the component
 the AI evaluation field currently lacks benchmark coverage for.
 
